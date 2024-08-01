@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">B.E. Artificial Intelligence and Data Science</h3>
 
-- 💬 Ask me about **Java, Python, SpringBoot, AI, ML, NLP, Data Science and Analytics**
+- 💬 Ask me about **Java, Python, Django, SpringBoot, SQL, AI, ML, NLP, Data Science and Analytics**
 
 - 📫 How to reach me **chetan99700rc@gmail.com**
 
